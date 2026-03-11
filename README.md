@@ -109,6 +109,20 @@ All functions are displayed on the same figure using MATLAB plotting tools with 
 - figure customisation
 - legend and axis configuration
 
+### Example Visualisations
+
+The Smart Plotter program generates multiple graph types.
+
+Examples included in this repository:
+
+- Days vs Sales bar chart
+- Days vs Sales line graph
+- Days vs Sales scatter plot
+- Mathematical function line graphs
+- Mathematical function scatter graphs
+
+These examples demonstrate MATLAB’s built-in plotting capabilities for exploratory data analysis.
+
 ---
 
 ### 3. Singapore NRIC Checksum Validator
@@ -140,27 +154,13 @@ Enter your seven-digit NRIC number: 2307605
 Your NRIC is: S2307605F
 ```
 
-Concepts Demostrated:
+Concepts Demonstrated:
 - input validation
 - string manipulation
 - modular arithmetic
 - conditional logic
 - algorithm implementation
 ---
-
-### Example Visualisations
-
-The Smart Plotter program generates multiple graph types.
-
-Examples included in this repository:
-
-- Days vs Sales bar chart
-- Days vs Sales line graph
-- Days vs Sales scatter plot
-- Mathematical function line graphs
-- Mathematical function scatter graphs
-
-These examples demonstrate MATLAB’s built-in plotting capabilities for exploratory data analysis.
 
 Each implementation folder contains:
 
