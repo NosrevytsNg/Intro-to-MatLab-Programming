@@ -1,5 +1,4 @@
-# Force SQL to be detectable in the language bar
-*.sql linguist-detectable=true
-*.sql linguist-language=SQL
+# Force .m (MatLab) to be detectable in the language bar
+*.m linguist-language=MATLAB
 
 
