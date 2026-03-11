@@ -162,14 +162,6 @@ Concepts Demonstrated:
 - algorithm implementation
 ---
 
-Each implementation folder contains:
-
-- screenshots of the MATLAB scripts
-- command window outputs
-- generated graphs
-
-This documentation-based structure preserves the original development environment even though the MATLAB `.m` files are not included.
-
 ### MATLAB Concepts Demonstrated
 
 This project demonstrates several fundamental MATLAB programming concepts:
@@ -204,3 +196,11 @@ These exercises provide a foundational understanding of MATLAB for **scientific 
 **Styverson Ng**
 
 This repository forms part of my personal GitHub portfolio showcasing coursework and practical exercises in programming, data analysis, and computational problem solving.
+
+Each implementation folder contains:
+
+- screenshots of the MATLAB scripts
+- command window outputs
+- generated graphs
+
+This documentation-based structure preserves the original development environment even though the MATLAB `.m` files are not included.
