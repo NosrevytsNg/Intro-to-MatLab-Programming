@@ -1,4 +1,5 @@
 # Force .m (MatLab) to be detectable in the language bar
 *.m linguist-language=MATLAB
+*.m linguist-detectable=true
 
 
