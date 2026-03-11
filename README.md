@@ -44,9 +44,6 @@ Please insert value of M: 10
 M = 10 and the sum = 561
 ```
 ---
-### 2. Smart Plotter Program
-
-```markdown
 ### 2. Smart Plotter Application
 
 The **Smart Plotter** is a menu-driven MATLAB program that allows users to interactively generate graphs from datasets and mathematical functions.
@@ -59,11 +56,6 @@ The **Smart Plotter** is a menu-driven MATLAB program that allows users to inter
 3) Quit the Smart Plotter
 ```
 
----
-
-# 6️⃣ Days vs Sales Plotting
-
-```markdown
 #### A. Days vs Sales Data Visualisation
 
 The program loads numerical data from external files and visualises the relationship between **days and sales**.
@@ -85,21 +77,18 @@ Example annotation displayed on graphs:
 ```text
 Total Sales: 550
 ```
-
-
 ---
 
-# 7️⃣ Function Plotting
 
-```markdown
 #### B. Mathematical Function Plotting
 
 The program also plots the following functions over the range:
 
-\[
+$$
 x \in [-1, 1]
-\]
+$$
 
+```text
 Functions plotted:
 f(x) = x + 3
 g(x) = x^2 + 1
@@ -128,7 +117,7 @@ All functions are displayed on the same figure using MATLAB plotting tools with 
 
 This program implements an algorithm used to compute the **checksum character of a Singapore NRIC number**.
 
-Example NRIC format: S1234567X
+Example NRIC format: ```text S1234567X ```
 
 
 Where:
@@ -153,21 +142,15 @@ Enter your seven-digit NRIC number: 2307605
 Your NRIC is: S2307605F
 ```
 
-Concepts Demo:
+Concepts Demostrated:
 - input validation
 - string manipulation
 - modular arithmetic
 - conditional logic
 - algorithm implementation
-
-
-
 ---
 
-# 9️⃣ Example Visualisations
-
-```markdown
-## Example Visualisations
+### Example Visualisations
 
 The Smart Plotter program generates multiple graph types.
 
@@ -180,7 +163,6 @@ Examples included in this repository:
 - Mathematical function scatter graphs
 
 These examples demonstrate MATLAB’s built-in plotting capabilities for exploratory data analysis.
-``` 
 
 Each implementation folder contains:
 
@@ -190,8 +172,7 @@ Each implementation folder contains:
 
 This documentation-based structure preserves the original development environment even though the MATLAB `.m` files are not included.
 
-
-## MATLAB Concepts Demonstrated
+### MATLAB Concepts Demonstrated
 
 This project demonstrates several fundamental MATLAB programming concepts:
 
@@ -204,7 +185,7 @@ This project demonstrates several fundamental MATLAB programming concepts:
 - graphical visualisation
 - algorithmic validation of structured identifiers
 
-## Learning Outcomes
+### Learning Outcomes
 
 Through these exercises, the following programming skills were developed:
 
@@ -216,12 +197,11 @@ Through these exercises, the following programming skills were developed:
 
 These exercises provide a foundational understanding of MATLAB for **scientific computing and numerical programming**.
 
-
-## Technologies Used
+### Technologies Used
 
 - MATLAB (MATLAB Online Environment)
 
-## Author
+### Author
 
 **Styverson Ng**
 
