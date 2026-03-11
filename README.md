@@ -191,7 +191,7 @@ These exercises provide a foundational understanding of MATLAB for **scientific 
 
 - MATLAB (MATLAB Online Environment)
 
-## Author
+## 🖋️ Author
 
 **Styverson Ng**
 
