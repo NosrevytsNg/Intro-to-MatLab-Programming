@@ -23,9 +23,9 @@ Together, these exercises demonstrate how MATLAB can be used to build **interact
 
 This program calculates the summation:
 
-\[
-\sum_{n=5}^{M} (2^{n-2} + (n+2))
-\]
+$$
+\sum_{n=5}^{M} \left(2^{n-2} + (n+2)\right)
+$$
 
 The user is prompted to input the value **M**, and the program computes the total sum for values of **n ranging from 5 to M**.
 
