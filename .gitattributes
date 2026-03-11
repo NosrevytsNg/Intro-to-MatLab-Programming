@@ -1,0 +1,5 @@
+# Force SQL to be detectable in the language bar
+*.sql linguist-detectable=true
+*.sql linguist-language=SQL
+
+
