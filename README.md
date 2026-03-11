@@ -77,8 +77,6 @@ Example annotation displayed on graphs:
 ```text
 Total Sales: 550
 ```
----
-
 
 #### B. Mathematical Function Plotting
 
@@ -111,7 +109,7 @@ All functions are displayed on the same figure using MATLAB plotting tools with 
 - figure customisation
 - legend and axis configuration
 
-
+---
 
 ### 3. Singapore NRIC Checksum Validator
 
