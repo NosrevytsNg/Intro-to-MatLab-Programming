@@ -191,9 +191,15 @@ These exercises provide a foundational understanding of MATLAB for **scientific 
 
 - MATLAB (MATLAB Online Environment)
 
-### Author
+## Author
 
 **Styverson Ng**
+
+Bachelor of Information Technology <br>
+Artificial Intelligence & Autonomous Systems <br>
+Cyber Security & Cyber Forensics <br>
+
+Murdoch University <br>
 
 This repository forms part of my personal GitHub portfolio showcasing coursework and practical exercises in programming, data analysis, and computational problem solving.
 
