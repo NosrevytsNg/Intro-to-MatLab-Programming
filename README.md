@@ -43,10 +43,8 @@ The user is prompted to input the value **M**, and the program computes the tota
 Please insert value of M: 10
 M = 10 and the sum = 561
 ```
-
-
 ---
-# 5️⃣ Smart Plotter Program
+### 2. Smart Plotter Program
 
 ```markdown
 ### 2. Smart Plotter Application
